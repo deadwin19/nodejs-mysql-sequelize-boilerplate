@@ -1,2 +1,1 @@
-# nodejs-mysql-sequelize-boilerplate
-Node.JS MySQL Sequelize Boilerplate
+# Node.JS MySQL Sequelize Boilerplate
